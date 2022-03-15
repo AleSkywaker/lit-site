@@ -1,0 +1,40 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "blog": "Blog",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "header": {
+    "lit_html": "Lit-html",
+    "shadow_dom": "shadow dom",
+    "web_components": "web components",
+    "title": "LiT Element (EN)",
+    "description1": "LitElement or just Lit is a simple base class for creating fast and lightweight",
+    "description2": "that work in any web page with any framework.",
+    "description3": "LitElement uses",
+    "description4": "to render into ",
+    "description5": ", and adds API to manage properties and attributes. Properties are observed by default, and elements update asynchronously when their properties change."
+  },
+  "boxes": [
+    {
+      "id": 1,
+      "urlImage": "../../assets/icons/easy-use.svg",
+      "title": "Simple",
+      "description": "Building on top of the Web Components standards, Lit adds just what you need to be productive: reactivity, declarative templates and a handful of thoughtful features to reduce boilerplate and make your job easier."
+    },
+    {
+      "id": 2,
+      "urlImage": "../../assets/icons/white-horse.svg",
+      "title": "Fast",
+      "description": "Around 5 KB (minified and compressed), Lit helps keep your bundle size small and your loading time short. And rendering is blazing fast, because Lit touches only the dynamic parts of your UI when updating — no need to rebuild a virtual tree."
+    },
+    {
+      "id": 3,
+      "urlImage": "../../assets/icons/web-components.svg",
+      "title": "Web Components",
+      "description": "Every Lit component is a native web component, with superpowers and works anywhere you use HTML, with any framework. Lit is ideal for building shareable components, design systems, or maintainable, future-ready sites and apps."
+    }
+  ]
+}

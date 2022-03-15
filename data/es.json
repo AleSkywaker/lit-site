@@ -1,0 +1,40 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "blog": "Blog",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "header": {
+    "lit_html": "Lit-html",
+    "shadow_dom": "shadow dom",
+    "web_components": "web components",
+    "title": "LiT Element (ES)",
+    "description1": "LitElement o Lit es una clase base para crear rápidos y ligeros",
+    "description2": "que funcionan en cualquier página web y en cualquier framework",
+    "description3": "LitElement usa",
+    "description4": "para renderizar dentro del",
+    "description5": ", y añade API para la gestion de propiedades atributos. Las propiedades son reactivas por defecto y los elementos se actualizan asincronomente cuando sus propiedades cambian."
+  },
+  "boxes": [
+    {
+      "id": 1,
+      "urlImage": "../../assets/icons/easy-use.svg",
+      "title": "Simple",
+      "description": "Facil de aprender y de usar, al no usar muchas dependencias y usar mas vanilla javascript lo hace mas alto nivel. Entenderas mejor como se crean los Elementos nativos que renderiza el navegador."
+    },
+    {
+      "id": 2,
+      "urlImage": "../../assets/icons/white-horse.svg",
+      "title": "Rápido",
+      "description": "Pesa solo 5kb (minificado) esta a mas alto nivel, no tiene muchas dependencias todo se desarrollada mas cerca del navegador, lo que que sea hace mas eficiente y rápido."
+    },
+    {
+      "id": 3,
+      "urlImage": "../../assets/icons/web-components.svg",
+      "title": "Web Components",
+      "description": "Basado en custom elements, estilos y lógica encapsulados para crear piezas de UI que se comportan y se muestran dependiendo de eventos o propiedades reactivas"
+    }
+  ]
+}
